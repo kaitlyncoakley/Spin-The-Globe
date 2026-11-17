@@ -1,4 +1,4 @@
-import photos from './photos.json';
+
 export const questions = [
  {title:'What does your dream escape look like?', options:['Relaxing on a beautiful beach','Exploring a bustling city','Finding an outdoor adventure','Discovering culture and history']},
  {title:'Where would you love to stay?', options:['A luxurious beachfront villa','A chic boutique city hotel','A cozy mountain cabin','A charming historic apartment']},
@@ -6,5 +6,5 @@ export const questions = [
  {title:'Your perfect afternoon involves…', options:['Swimming and watching the sunset','Shopping and visiting cute cafés','Hiking and exploring nature','Visiting museums and historic landmarks']},
  {title:'What’s your ideal forecast?', options:['Hot and sunny','Mild and breezy','Cool and crisp','I’m flexible!']},
  {title:'What are you looking for most?', options:['Relaxation and beautiful scenery','Nightlife and entertainment','Adventure and excitement','Food, culture, and new experiences']},
- {title:'Choose the scene that speaks to you.', options:['A tropical beach at sunset','A charming European street café','Snow-covered mountains','Beautiful historic architecture'], images:[photos.bali[0].src,photos.paris[0].src,photos.interlaken[0].src,photos.marrakech[0].src]}
+ {title:'Choose the scene that speaks to you.', options:['A tropical beach at sunset','A charming European street café','Snow-covered mountains','Beautiful historic architecture'], images:["https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=700&q=80","https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/A_well-known_coffee_terrace_%2846610470381%29.jpg/500px-A_well-known_coffee_terrace_%2846610470381%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Wetterhorn_und_Mettenberg.jpg/500px-Wetterhorn_und_Mettenberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Eiffel_Tower_from_north_Avenue_de_New_York%2C_Aug_2010.jpg/500px-Eiffel_Tower_from_north_Avenue_de_New_York%2C_Aug_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"]}
 ];
