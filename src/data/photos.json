@@ -1,0 +1,242 @@
+{
+  "amalfi": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Amalfi_Coast%2C_Italy_Panoramic.jpg/1280px-Amalfi_Coast%2C_Italy_Panoramic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Amalfi Coast, Italy Panoramic.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast,_Italy_Panoramic.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Mайкл Гиммельфарб"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_SLP0240.jpg/1280px-A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_SLP0240.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "A House with Flowering Trees along the Amalfi Coast of Italy MET SLP0240.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_SLP0240.jpg",
+      "license": "CC0",
+      "artist": "Constantin Westchiloff"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_0240-1.jpg/1280px-A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_0240-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "A House with Flowering Trees along the Amalfi Coast of Italy MET 0240-1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:A_House_with_Flowering_Trees_along_the_Amalfi_Coast_of_Italy_MET_0240-1.jpg",
+      "license": "CC0",
+      "artist": "Constantin Westchiloff"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Amalfi_Coast_-_Flickr_-_concrete%5Efells_%283%29.jpg/1280px-Amalfi_Coast_-_Flickr_-_concrete%5Efells_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Amalfi Coast - Flickr - concrete^fells (3).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_-_Flickr_-_concrete%5Efells_(3).jpg",
+      "license": "CC BY 2.0",
+      "artist": "concrete fells from London, United Kingdom"
+    }
+  ],
+  "paris": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Universit%C3%A9_Gustave_Eiffel_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "title": "Université Gustave Eiffel logo.png",
+      "source": "https://commons.wikimedia.org/wiki/File:Universit%C3%A9_Gustave_Eiffel_logo.png",
+      "license": "CC BY-SA 4.0",
+      "artist": "Xaviertian"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Paris_-_Gustave-Eiffel-Universit%C3%A4t_%285%29.jpg/1280px-Paris_-_Gustave-Eiffel-Universit%C3%A4t_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Paris - Gustave-Eiffel-Universität (5).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Paris_-_Gustave-Eiffel-Universit%C3%A4t_(5).jpg",
+      "license": "CC BY 4.0",
+      "artist": "Johannes Reimer"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Parvis_Maison_%C3%89tudiant_-_Champs-sur-Marne_%28FR77%29_-_2024-06-12_-_1.jpg/1280px-Parvis_Maison_%C3%89tudiant_-_Champs-sur-Marne_%28FR77%29_-_2024-06-12_-_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Parvis Maison Étudiant - Champs-sur-Marne (FR77) - 2024-06-12 - 1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Parvis_Maison_%C3%89tudiant_-_Champs-sur-Marne_(FR77)_-_2024-06-12_-_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Chabe01"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Eiffel_Tour_Paris.jpg/1280px-Eiffel_Tour_Paris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Eiffel Tour Paris.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tour_Paris.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Marius.l.verdes"
+    }
+  ],
+  "bali": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-02.jpg/1280px-Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Kuta Bali Indonesia Pura-Luhur-Uluwatu-02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kuta_Bali_Indonesia_Pura-Luhur-Uluwatu-02.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "CEphoto, Uwe Aranas"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Tanah_Lot_Temple_4.jpg/1280px-Tanah_Lot_Temple_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Tanah Lot Temple 4.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tanah_Lot_Temple_4.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Hotel Kaesong"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Tanah_Lot_Temple_5.jpg/1280px-Tanah_Lot_Temple_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Tanah Lot Temple 5.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tanah_Lot_Temple_5.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Hotel Kaesong"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Tanah_Lot_Temple_2.jpg/1280px-Tanah_Lot_Temple_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Tanah Lot Temple 2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Tanah_Lot_Temple_2.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Hotel Kaesong"
+    }
+  ],
+  "interlaken": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Edward_Gennys_Fanshawe%2C_Jungfrau_from_Interlaken%2C_1877_%28Switzerland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "title": "Edward Gennys Fanshawe, Jungfrau from Interlaken, 1877 (Switzerland).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Edward_Gennys_Fanshawe,_Jungfrau_from_Interlaken,_1877_(Switzerland).jpg",
+      "license": "Public domain",
+      "artist": "Admiral Edward Gennys Fanshawe (27 November 1814 – 21 October 1906)."
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/5636_-_Schynige_Platte_-_View_of_Interlaken_and_Thunersee.JPG/1280px-5636_-_Schynige_Platte_-_View_of_Interlaken_and_Thunersee.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "5636 - Schynige Platte - View of Interlaken and Thunersee.JPG",
+      "source": "https://commons.wikimedia.org/wiki/File:5636_-_Schynige_Platte_-_View_of_Interlaken_and_Thunersee.JPG",
+      "license": "CC BY-SA 2.5",
+      "artist": "Andrew Bossi"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/View_of_Lake_Brienz.jpg/1280px-View_of_Lake_Brienz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "View of Lake Brienz.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Lake_Brienz.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "PhilippTillmann99"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Hardergrat_with_Lake_Brienz.jpg/1280px-Hardergrat_with_Lake_Brienz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Hardergrat with Lake Brienz.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Hardergrat_with_Lake_Brienz.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "PhilippTillmann99"
+    }
+  ],
+  "tokyo": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Minato_City%2C_Tokyo%2C_Japan.jpg/1280px-Minato_City%2C_Tokyo%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Minato City, Tokyo, Japan.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.jpg",
+      "license": "CC BY 4.0",
+      "artist": "David Kernan"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Chinese_Landscape_by_Fujishima_Takeji_%28Kagoshima_City_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "title": "Chinese Landscape by Fujishima Takeji (Kagoshima City Museum of Art).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Chinese_Landscape_by_Fujishima_Takeji_(Kagoshima_City_Museum_of_Art).jpg",
+      "license": "Public domain",
+      "artist": "Fujishima Takeji"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rainbow_Bridge_Tokyo_Japan_Travel_Photography_%28242015055%29.jpeg/1280px-Rainbow_Bridge_Tokyo_Japan_Travel_Photography_%28242015055%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Rainbow Bridge Tokyo Japan Travel Photography (242015055).jpeg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rainbow_Bridge_Tokyo_Japan_Travel_Photography_(242015055).jpeg",
+      "license": "CC BY 3.0",
+      "artist": "\nGiuseppe Milo"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Landscape_by_Kuroda_Seiki_%28Kagoshima_City_Museum_of_Art%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "title": "Landscape by Kuroda Seiki (Kagoshima City Museum of Art).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Landscape_by_Kuroda_Seiki_(Kagoshima_City_Museum_of_Art).jpg",
+      "license": "Public domain",
+      "artist": "Kuroda Seiki"
+    }
+  ],
+  "marrakech": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/City_Walls_Marrakech_%28348957920%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "title": "City Walls Marrakech (348957920).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:City_Walls_Marrakech_(348957920).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "puffin11k from Mirfield, UK"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Morocco_Oriental_Marrakech_Orient_Architecture.jpg/1280px-Morocco_Oriental_Marrakech_Orient_Architecture.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Morocco Oriental Marrakech Orient Architecture.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Morocco_Oriental_Marrakech_Orient_Architecture.jpg",
+      "license": "CC0",
+      "artist": "Jonny_Joka"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bahia_Palace_Marrakech_carved_cedar_wood_ceiling.webp/1280px-Bahia_Palace_Marrakech_carved_cedar_wood_ceiling.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Bahia Palace Marrakech carved cedar wood ceiling.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Bahia_Palace_Marrakech_carved_cedar_wood_ceiling.webp",
+      "license": "CC BY 4.0",
+      "artist": "Bahiapalace"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Modern_Marrakech_architecture_%2811277816176%29.jpg/1280px-Modern_Marrakech_architecture_%2811277816176%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Modern Marrakech architecture (11277816176).jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Modern_Marrakech_architecture_(11277816176).jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Mzximvs VdB from Brussels, belgium"
+    }
+  ],
+  "santorini": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg/1280px-Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Rowing boat on a house roof - Fira - Santorini - Greece - 02.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Rowing_boat_on_a_house_roof_-_Fira_-_Santorini_-_Greece_-_02.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Norbert Nagel"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%9C%CE%B7%CE%BD%CE%AC%CF%82%2C_%CE%A6%CE%B7%CF%81%CE%AC_0069.jpg/1280px-%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%9C%CE%B7%CE%BD%CE%AC%CF%82%2C_%CE%A6%CE%B7%CF%81%CE%AC_0069.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Άγιος Μηνάς, Φηρά 0069.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:%CE%86%CE%B3%CE%B9%CE%BF%CF%82_%CE%9C%CE%B7%CE%BD%CE%AC%CF%82,_%CE%A6%CE%B7%CF%81%CE%AC_0069.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "C messier"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg/1280px-Santorin_%28GR%29%2C_Fira_--_2017_--_2598.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Santorin (GR), Fira -- 2017 -- 2598.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Fira_--_2017_--_2598.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Dietmar Rabich"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Santorin_%28GR%29%2C_Fira_--_2017_--_2624.jpg/1280px-Santorin_%28GR%29%2C_Fira_--_2017_--_2624.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Santorin (GR), Fira -- 2017 -- 2624.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Santorin_(GR),_Fira_--_2017_--_2624.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Dietmar Rabich"
+    }
+  ],
+  "newyork": [
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Long_Island_City_New_York_May_2015_panorama_3.jpg/1280px-Long_Island_City_New_York_May_2015_panorama_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Long Island City New York May 2015 panorama 3.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Long_Island_City_New_York_May_2015_panorama_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "King of Hearts"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg/1280px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "View of Empire State Building from Rockefeller Center New York City dllu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Dllu"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/New_York_City_at_night_HDR.jpg/1280px-New_York_City_at_night_HDR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "New York City at night HDR.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:New_York_City_at_night_HDR.jpg",
+      "license": "CC BY-SA 2.0",
+      "artist": "Paulo Barcellos Jr."
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg/1280px-New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "New York Midtown Skyline at night - Jan 2006 edit1.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:New_York_Midtown_Skyline_at_night_-_Jan_2006_edit1.jpg",
+      "license": "CC BY-SA 3.0",
+      "artist": "Diliff"
+    }
+  ]
+}
