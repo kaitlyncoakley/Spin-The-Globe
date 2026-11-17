@@ -6,5 +6,5 @@ export const questions = [
  {title:'Your perfect afternoon involves…', options:['Swimming and watching the sunset','Shopping and visiting cute cafés','Hiking and exploring nature','Visiting museums and historic landmarks']},
  {title:'What’s your ideal forecast?', options:['Hot and sunny','Mild and breezy','Cool and crisp','I’m flexible!']},
  {title:'What are you looking for most?', options:['Relaxation and beautiful scenery','Nightlife and entertainment','Adventure and excitement','Food, culture, and new experiences']},
- {title:'Choose the scene that speaks to you.', options:['A tropical beach at sunset','A charming European street café','Snow-covered mountains','Beautiful historic architecture'], images:["./images/quiz-beach.webp","./images/quiz-cafe.webp","./images/quiz-mountain.webp","./images/quiz-architecture.webp"]}
+ {title:'Choose the scene that speaks to you.', options:['A tropical beach at sunset','A charming European street café','Snow-covered mountains','Beautiful historic architecture'], images:["./images/quiz-beach.webp","./images/quiz-cafe.webp","./images/quiz-mountain-v2.webp","./images/quiz-architecture.webp"]}
 ];
