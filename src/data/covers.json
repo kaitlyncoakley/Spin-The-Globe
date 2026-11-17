@@ -1,0 +1,57 @@
+{
+  "amalfi": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Positano_%28Italy%29_03.jpg/1920px-Positano_%28Italy%29_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Positano (Italy) 03.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_03.jpg",
+    "license": "CC BY 4.0",
+    "artist": "Bernard Gagnon"
+  },
+  "paris": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg/1920px-Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Eiffel Tower and Pont Alexandre III at night.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Eiffel_Tower_and_Pont_Alexandre_III_at_night.jpg",
+    "license": "CC BY 2.0",
+    "artist": "Getfunky Paris"
+  },
+  "bali": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bali_panorama.jpg/1920px-Bali_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Bali panorama.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Bali_panorama.jpg",
+    "license": "CC BY-SA 3.0"
+  },
+  "interlaken": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Grindelwald.jpg/1920px-Grindelwald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Grindelwald.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Grindelwald.jpg",
+    "license": "Public domain",
+    "artist": "Jphoto"
+  },
+  "tokyo": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Tokyo_Tower%2C_Minato_City.jpg/1920px-Tokyo_Tower%2C_Minato_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Tokyo Tower, Minato City.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower,_Minato_City.jpg",
+    "license": "CC BY 4.0",
+    "artist": "David Kernan"
+  },
+  "marrakech": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Marrakech%2C_Morocco_%285422838166%29_%286%29.jpg/1920px-Marrakech%2C_Morocco_%285422838166%29_%286%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Marrakech, Morocco (5422838166) (6).jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Marrakech,_Morocco_(5422838166)_(6).jpg",
+    "license": "CC BY 2.0",
+    "artist": "YoTuT from United States"
+  },
+  "santorini": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg/1920px-1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "1000 Three domes of Oia in Santorini Photo by Giles Laurent.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Giles Laurent"
+  },
+  "newyork": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg/1920px-Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach%2C_New_York.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "Brooklyn Bridge and the Lower Manhattan skyline from Pebble Beach, New York.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg",
+    "license": "CC BY-SA 4.0",
+    "artist": "Christian David"
+  }
+}
