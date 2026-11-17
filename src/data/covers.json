@@ -48,7 +48,7 @@
     "artist": "Giles Laurent"
   },
   "newyork": {
-    "src": "./images/cover-newyork.webp",
+    "src": "./images/cover-newyork-fixed.webp",
     "title": "newyork cover photograph",
     "source": null,
     "license": null,
