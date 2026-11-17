@@ -8,13 +8,6 @@
       "artist": "Bernard Gagnon"
     },
     {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Positano_%28Italy%29_04.jpg/1280px-Positano_%28Italy%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "title": "Positano (Italy) 04.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Positano_(Italy)_04.jpg",
-      "license": "CC BY 4.0",
-      "artist": "Bernard Gagnon"
-    },
-    {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Positano%2C_Amalfi_Coast%2C_Italy_%2821691058963%29.jpg/1280px-Positano%2C_Amalfi_Coast%2C_Italy_%2821691058963%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "title": "Positano, Amalfi Coast, Italy (21691058963).jpg",
       "source": "https://commons.wikimedia.org/wiki/File:Positano,_Amalfi_Coast,_Italy_(21691058963).jpg",
@@ -27,6 +20,13 @@
       "source": "https://commons.wikimedia.org/wiki/File:Positano_at_dusk,_Amalfi_Coast,_Italy.jpg",
       "license": "CC BY 2.0",
       "artist": "Eric Hossinger"
+    },
+    {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Positano%2C_Italia%2C_2023-03-26%2C_DD_06.jpg/1280px-Positano%2C_Italia%2C_2023-03-26%2C_DD_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "title": "Positano, Italia, 2023-03-26, DD 06.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Positano,_Italia,_2023-03-26,_DD_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "artist": "Diego Delso"
     }
   ],
   "paris": [
